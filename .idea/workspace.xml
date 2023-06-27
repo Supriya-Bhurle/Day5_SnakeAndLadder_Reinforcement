@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cb09adeb-e711-4c19-9b66-01e9be90d8ff" name="Changes" comment="" />
+    <list default="true" id="cb09adeb-e711-4c19-9b66-01e9be90d8ff" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/src/com/bridgelabz/SnakeAndLadder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/bridgelabz/SnakeAndLadder.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
